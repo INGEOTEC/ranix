@@ -87,8 +87,20 @@ significant ones:
 tightly linked to `--recall`)
 
 
+```bash
+$ find INEGI
+INEGI
+INEGI/corpus
+INEGI/corpus.offset
+INEGI/db
+INEGI/fastlinks
+INEGI/index
+INEGI/model
+```
+
 ### Querying the index (batch mode)
 ```bash
 zcat < not-seen-before-documents.json.gz | julia ranix.jl search INEGI
 ... outputs one json per query ...
 ```
+
