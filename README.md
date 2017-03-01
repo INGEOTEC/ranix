@@ -1,10 +1,7 @@
 # Ranix
 
-Ranix is a document search engine mostly in barebones. It is intended
-to be of use to create simple demonstration and a number of text
-analytics tasks like exploratory analysis and near duplication
-detection.
-Other complex tasks are also possible with a little bit of effort.
+
+Ranix is a document search engine mostly in barebones. It is intended to be of use to create simple demonstrations and perform text analytics tasks like exploratory analysis and near duplication detection. Other complex tasks are also possible with a little bit of effort.
 
 If you are interested in the tasks performed by this package but you
 cannot waste your time with costly preprocessing steps, please check
@@ -12,7 +9,7 @@ out the
 [PatternAnalysisTools](https://github.com/INGEOTEC/PatternAnalysisTools.git)
 
 
-# Disclaimer
+# License
 This is work in progress under the Apache 2.0 license.
 
 # Dependencies
